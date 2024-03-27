@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minka House (Japanese Traditional House)
+* source:	https://sketchfab.com/3d-models/minka-house-japanese-traditional-house-01ddb345553c4ddf9bd51400406434bb
+* author:	FinnyInTheBinny (https://sketchfab.com/FinnyInTheBinny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minka House (Japanese Traditional House)" (https://sketchfab.com/3d-models/minka-house-japanese-traditional-house-01ddb345553c4ddf9bd51400406434bb) by FinnyInTheBinny (https://sketchfab.com/FinnyInTheBinny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
